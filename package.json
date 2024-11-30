@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "location-geo-map",
+  "name": "kenzo-package-location-geo-map",
   "version": "2.4.7",
   "scripts": {
     "start": "nr1 nerdpack:serve",
